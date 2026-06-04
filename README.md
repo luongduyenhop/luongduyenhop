@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:hop.luongduyen@gmail.com"><img width="32px" alt="Gmail" title="Email Me" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- Nếu có LinkedIn thì bạn thay # bằng link trang cá nhân của bạn, nếu không có thì xóa dòng này đi -->
   <a href="https://www.linkedin.com/in/h%E1%BB%A3p-l%C6%B0%C6%A1ng-525909299/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/luongduyenhop"><img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/fluent/48/000000/github.png"></a>
@@ -39,8 +38,6 @@ Currently, I am seeking Intern/Fresher opportunities to apply my strong academic
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="sql" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -57,7 +54,6 @@ Currently, I am seeking Intern/Fresher opportunities to apply my strong academic
 
 <p align="center">
 
-<!-- Xóa tạm các ảnh hardcode tĩnh của tác giả cũ -->
 <img alt="Grid-Snake" src="https://raw.githubusercontent.com/luongduyenhop/luongduyenhop/main/dist/grid-snake.svg" onerror="this.style.display='none'">
 
 <h3 align="left"> 💻 My Primary Stack </h3>
@@ -65,8 +61,6 @@ Currently, I am seeking Intern/Fresher opportunities to apply my strong academic
   <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
   <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
   <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
-  <img src="https://img.shields.io/badge/Node.js-snow?logo=nodedotjs&logoColor=339933" alt="" />
-  <img src="https://img.shields.io/badge/Next.js-snow?logo=nextdotjs&logoColor=000000" alt="" />
   <img src="https://img.shields.io/badge/Linux-snow?logo=linux&logoColor=FCC624" alt="" />
 </p>
 
