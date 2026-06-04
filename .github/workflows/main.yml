@@ -1,0 +1,43 @@
+name: Metrics
+on:
+  # Cập nhật tự động vào 0h mỗi ngày
+  schedule: [{cron: "0 0 * * *"}]
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Cần tạo Personal Access Token (PAT) và lưu vào mục Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Tên tài khoản của bạn
+          user: luongduyenhop
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Plugin: Ngôn ngữ lập trình
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          # Plugin: Lịch commit 3D
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Plugin: Thói quen code
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # Plugin: Steam (Giải trí) - Xóa dấu '#' để kích hoạt
+          # plugin_steam: yes
+          # plugin_steam_user: "NHẬP_STEAM_ID_CỦA_BẠN"
