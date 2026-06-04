@@ -1,6 +1,9 @@
+<img src="https://github.com/luongduyenhop/luongduyenhop/blob/main/github-metrics.svg" alt="Metrics">
+
+
 # Hey, I'm Lương Duyên Hợp 👋
  
-[![Gmail Badge](https://img.shields.io/badge/-hop.luongduyen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hop.luongduyen@gmail.com)](mailto:hop.luongduyen@gmail.com) [![Website Badge](https://img.shields.io/badge/-luongduyenhop-03a57a?style=flat-square&logo=google-chrome&logoColor=white)](http://luongduyenhop)
+[![Gmail Badge](https://img.shields.io/badge/-hop.luongduyen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hop.luongduyen@gmail.com)](mailto:hop.luongduyen@gmail.com) 
  
 Third-year Information Technology student at the University of Transport and Communications (UTC) based in Hanoi. I am passionate about software development, technical system design, and applying AI-powered tools to optimize coding workflows.
  
