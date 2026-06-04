@@ -5,11 +5,12 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="mailto:hop.luongduyen@gmail.com"><img width="32px" alt="Gmail" title="Email Me" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/></a>
+  <a href="mailto:hop.luongduyen@gmail.com"><img width="32px" alt="Gmail" title="Email Me" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://luongduyenhop" alt="Website" title="My Portfolio"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <!-- Nếu có LinkedIn thì bạn thay # bằng link trang cá nhân của bạn, nếu không có thì xóa dòng này đi -->
+  <a href="https://www.linkedin.com/in/h%E1%BB%A3p-l%C6%B0%C6%A1ng-525909299/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/luongduyenhop"><img width="32px" alt="GitHub" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></a>
+  <a href="https://github.com/luongduyenhop"><img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/fluent/48/000000/github.png"></a>
 </p>
 
 
