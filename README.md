@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="mailto:luongduyenhop@gmail.com"><img width="32px" alt="Gmail" title="Email Me" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/></a>
+  <a href="mailto:hop.luongduyen@gmail.com"><img width="32px" alt="Gmail" title="Email Me" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://luongduyenhop" alt="Website" title="My Portfolio"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
