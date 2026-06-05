@@ -26,7 +26,6 @@ Currently, I am seeking Intern/Fresher opportunities to apply my strong academic
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luongduyenhop/luongduyenhop/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luongduyenhop/luongduyenhop/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luongduyenhop/luongduyenhop/output/pacman-contribution-graph.svg" width="600" onerror="this.style.display='none'">
 </picture>
 
   </div>
